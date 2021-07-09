@@ -23,12 +23,13 @@
     text-align: center;
 }
 .main.parrafo1{
- width: 570px;
- height: 450px;
- padding: 10px 10px;
- font-size: 15px;
- background: #ECF0F3;
- border-radius: 8px;
+
+   width: 570px;
+   height: 450px;
+   padding: 10px 10px;
+   font-size: 15px;
+   background-color: #ECF0F3;
+   border-radius: 8px;
 }
 .footer{
     margin-top: 30px;
