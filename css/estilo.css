@@ -1,9 +1,13 @@
 header{
+    text-align: center;
     height: 100%;
     background: #3C9DF8;
     display: flex;
     flex-direction: column;
+    padding: 20px;
 }
 footer{
+    text-align: center;
     background: #3C9DF8;
+    padding: 20px;
 }
