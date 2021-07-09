@@ -1,4 +1,4 @@
-header{
+.header{
     text-align: center;
     height: 100%;
     background: #3C9DF8;
@@ -6,8 +6,11 @@ header{
     flex-direction: column;
     padding: 20px;
 }
-footer{
+.footer{
     text-align: center;
     background: #3C9DF8;
     padding: 20px;
+}
+.main{
+    width: 95%;
 }
