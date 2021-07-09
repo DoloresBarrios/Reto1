@@ -22,6 +22,12 @@
 .main h1{
     text-align: center;
 }
+.main.parrafo1{
+ width: 600px;
+ height: 450px;
+ padding: 10px 10px;
+ font-size: 15px;
+}
 .footer{
     margin-top: 30px;
     width: 100%;
