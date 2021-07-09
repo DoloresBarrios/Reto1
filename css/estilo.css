@@ -28,6 +28,9 @@ table.parrafo1{
     background-color: #ECF0F3;
     border-radius: 10px;
  }
+table.parrafo1 p{
+    text-align: left;
+}
 .footer{
     margin-top: 30px;
     width: 100%;
