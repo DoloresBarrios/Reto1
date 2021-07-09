@@ -22,15 +22,12 @@
 .main h1{
     text-align: center;
 }
-.main.parrafo1{
-    float: left;
-   width: 550px;
-   height: 450px;
-   padding: 10px 10px;
-   font-size: 15px;
-   background-color: #ECF0F3;
-   border-radius: 8px;
-}
+table.parrafo1{
+    float: center;
+    font-size: 15px;
+    background-color: #ECF0F3;
+    border-radius: 10px;
+ }
 .footer{
     margin-top: 30px;
     width: 100%;
