@@ -23,8 +23,8 @@
     text-align: center;
 }
 .main.parrafo1{
-
-   width: 570px;
+    float: left;
+   width: 550px;
    height: 450px;
    padding: 10px 10px;
    font-size: 15px;
