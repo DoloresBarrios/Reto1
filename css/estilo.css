@@ -29,6 +29,9 @@ table.parrafo1{
 table.parrafo1 p{
     text-align: left;
 }
+img{
+    border-radius: 10px;
+}
 .footer{
     margin-top: 30px;
     width: 100%;
